@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/loginimagebackground"
+    tools:context="com.example.mrdopol.niceproject.SplashActiviy">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="166.7dp"
+        android:layout_height="114.3dp"
+        android:layout_marginBottom="417.3dp"
+        android:layout_marginLeft="123.7dp"
+        android:layout_marginRight="123.7dp"
+        android:layout_marginTop="180.3dp"
+        android:contentDescription="logo"
+        app:srcCompat="@drawable/nicelogo" />
+
+</LinearLayout>

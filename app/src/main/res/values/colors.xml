@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004089</color>
+    <color name="colorPrimaryDark">#00234C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pointColor">#F39800</color>
+    <color name="pointColorDark">#F38000</color>
+    <color name="textBox">#afafaf</color>
+    <color name="text">#000000</color>
+    <color name="textCombo">#606060</color>
+    <color name="title">#363636</color>
+    <color name="bar">#eeeeee</color>
+    <color name="button">#FFFFFF</color>
+</resources>
